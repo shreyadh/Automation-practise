@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Selenium prac\Selenium prac\obj\Debug\Selenium prac.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Selenium prac\Selenium prac\obj\Debug\Selenium prac.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\Selenium prac.exe.config
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\Selenium prac.exe
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\Selenium prac.pdb
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\WebDriver.dll
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\WebDriver.xml
+C:\Users\user\source\repos\Selenium prac\Selenium prac\obj\Debug\Selenium prac.csproj.CopyComplete
+C:\Users\user\source\repos\Selenium prac\Selenium prac\obj\Debug\Selenium prac.exe
+C:\Users\user\source\repos\Selenium prac\Selenium prac\obj\Debug\Selenium prac.pdb
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\WebDriver.Support.dll
+C:\Users\user\source\repos\Selenium prac\Selenium prac\bin\Debug\WebDriver.Support.xml
